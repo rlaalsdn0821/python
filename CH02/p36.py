@@ -1,0 +1,8 @@
+# 예악어 확인
+import keyword  # 묘듈 임포트
+
+python_keyword = keyword.kwlist
+print(python_keyword)
+
+print(type(python_keyword))
+print(len(python_keyword))
